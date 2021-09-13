@@ -1,1 +1,0 @@
-# Automated-Caption-Generator
